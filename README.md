@@ -6,6 +6,6 @@
  The assets directory contains fonts and images used by the templates.
 
  ## Version History
- - 1.0 Initial commit to github
-
+ - 1.0 Initial commit to github.
+ - 1.1 Added the Forbidden Lands Pages Template file that can be added to the Pages template browser.
 
